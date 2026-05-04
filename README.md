@@ -58,4 +58,4 @@ compliance scores, and generating a professional 4-sheet Excel audit report.
 
 ## Dashboard Preview
 
-![Audit Tracker Dashboard](AuditTracker_Dashboard_HGudavalli.png)
+![Audit Tracker Dashboard](AuditTracker_Dashboard_HGudavalli%20(1).png)
